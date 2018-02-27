@@ -1,6 +1,6 @@
 # tattoo-detection-using-alexnet
 
-"""TensorFLow implementation of AlexNet by Alex Krizhevsky at all.
+TensorFLow implementation of AlexNet by Alex Krizhevsky at all.
 
 Paper:
 (http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
